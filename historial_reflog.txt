@@ -1,0 +1,2 @@
+7a763c9 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: commit: nuevos ficheros
+81007b0 HEAD@{1}: clone: from https://github.com/Deyna28/Ejercicios-depuracion.git
