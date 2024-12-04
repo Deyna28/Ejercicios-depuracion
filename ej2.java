@@ -6,6 +6,7 @@ public class ej2 {
 		 System.out.print("Introduce un número: ");
 	     return sc.nextInt();
 	}
+	
 	 public static void main(String[] args) {
 	 int n, contador = 0;
 	 n = pedirNumero();
